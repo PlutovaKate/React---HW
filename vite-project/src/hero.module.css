@@ -1,0 +1,22 @@
+.div {
+  width: 70%;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrrujSrRt4nsL-_3PPa7SPGxTcx1zwiaL0og&s");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding: 80px;
+
+  text-align: center;
+}
+
+.h1 {
+  font-weight: 600;
+  font-size: 56px;
+  line-height: 67px;
+}
+
+.p {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 30px;
+}
